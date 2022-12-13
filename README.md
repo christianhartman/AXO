@@ -2,7 +2,7 @@
 Medical, clinical, and patient-facing content.
 
 ## Files
-Medication Conditions (Consumer)
+Medical Conditions (Consumer)
 
 Lab Tests (Consumer)
 
